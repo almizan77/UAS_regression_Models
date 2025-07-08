@@ -1,5 +1,5 @@
 ---
-title: "Regresi Model"
+title: "UAS Regresi Model"
 output: html_document
 date: "2025-07-08"
 ---
