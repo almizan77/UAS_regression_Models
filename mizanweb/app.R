@@ -8,7 +8,7 @@ library(dplyr)
 library(broom)
 
 ui <- fluidPage(
-  titlePanel("Analisis Data, Model Regresi, dan Prediksi"),
+  titlePanel("Analisis Data, Model Regresi, dan Prediksi oleh Almizan Kocak"),
   
   sidebarLayout(
     sidebarPanel(
